@@ -1,1 +1,1 @@
-# Quiz-Website
+Quiz Website
